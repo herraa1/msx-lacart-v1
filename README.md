@@ -22,7 +22,7 @@ The msx-lacart is made of a 4-layer PCB with minimal components.
 
 [<img src="images/msx-lacart-v1-build1-front-render_512x.png" width="512"/>](images/msx-lacart-v1-build1-front-render.png)
 
-[<img src="images/msx-lacart-v1-build1-back-render_512x.png" width="512"/>](images/msx-lacart-v1-build1-front-render.png)
+[<img src="images/msx-lacart-v1-build1-back-render_512x.png" width="512"/>](images/msx-lacart-v1-build1-back-render.png)
 
 [Bill Of Materials (BoM)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/herraa1/msx-lacart-v1/main/hardware/kicad/msx-lacart-v1-build1/bom/ibom.html)
 
