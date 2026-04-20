@@ -83,7 +83,7 @@ The msx-lacart is made of a 4-layer PCB with minimal components.
 
 |[<img src="images/msx-lacart-knightmare-boot-logicanalizer.png" width="768"/>](images/msx-lacart-knightmare-boot-logicanalizer.png)|
 |:--|
-|El Dr Gusman Logic Analyzer 6.5 MSX BIOS Z80 boot instructions captured using msx-lacart-v1|
+|El Dr Gusman Logic Analyzer 6.5 showing MSX BIOS Z80 boot instructions captured using msx-lacart-v1|
 
 |[<img src="images/msx-lacart-knightmare-boot-pulseview.png" width="768"/>](images/msx-lacart-knightmare-boot-pulseview.png)|
 |:--|
